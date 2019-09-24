@@ -1,6 +1,6 @@
 **/.ipynb_checkpoints
 **/*.pyc
-
 .cache
 .ipython
 .local
+.jupyter
